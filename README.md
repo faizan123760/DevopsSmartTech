@@ -1,6 +1,6 @@
 # Introduction to DevOps
-History and evolution of DevOps
-DevOps culture and principles
+History and evolution of DevOps.
+DevOps culture and principles.
 Benefits of DevOps.
 
 # Continuous Integration and Continuous Deployment (CI/CD)
